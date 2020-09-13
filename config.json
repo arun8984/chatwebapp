@@ -1,7 +1,7 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "http://158.51.121.6:8008",
+            "base_url": "https://app.goip2call.com",
             "server_name": "Goip2Call"
         },
         "m.identity_server": {
@@ -37,7 +37,7 @@
     },
     "welcomeUserId": "",
     "enable_presence_by_hs_url": {
-        "http://158.51.121.6:8008": true
+        "https://app.goip2call.com": true
     },
     "settingDefaults": {
         "breadcrumbs": true
